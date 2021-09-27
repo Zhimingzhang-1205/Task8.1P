@@ -1,0 +1,9 @@
+.expert {
+    overflow: hidden;
+    width: 30%;
+    margin-top: 10px;
+    margin-right: 2%;
+    max-height: 30vh;
+    float: left;
+  }
+  
